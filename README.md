@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DevSanjay09/Leetcodes/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/DevSanjay09/Leetcodes/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/DevSanjay09/Leetcodes/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/DevSanjay09/Leetcodes/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/DevSanjay09/Leetcodes/tree/master/0055-jump-game) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/DevSanjay09/Leetcodes/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/DevSanjay09/Leetcodes/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/DevSanjay09/Leetcodes/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/DevSanjay09/Leetcodes/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/DevSanjay09/Leetcodes/tree/master/0151-reverse-words-in-a-string) |
 ## Greedy
@@ -102,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/DevSanjay09/Leetcodes/tree/master/0209-minimum-size-subarray-sum) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/DevSanjay09/Leetcodes/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
