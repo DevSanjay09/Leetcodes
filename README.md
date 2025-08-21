@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/DevSanjay09/Leetcodes/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/DevSanjay09/Leetcodes/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DevSanjay09/Leetcodes/tree/master/0380-insert-delete-getrandom-o1) |
+| [0383-ransom-note](https://github.com/DevSanjay09/Leetcodes/tree/master/0383-ransom-note) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/DevSanjay09/Leetcodes/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/DevSanjay09/Leetcodes/tree/master/0383-ransom-note) |
 ## Math
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/DevSanjay09/Leetcodes/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/DevSanjay09/Leetcodes/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/DevSanjay09/Leetcodes/tree/master/0151-reverse-words-in-a-string) |
+| [0383-ransom-note](https://github.com/DevSanjay09/Leetcodes/tree/master/0383-ransom-note) |
 ## Greedy
 |  |
 | ------- |
